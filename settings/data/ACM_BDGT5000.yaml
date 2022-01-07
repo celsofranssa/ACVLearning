@@ -1,0 +1,12 @@
+name: ACM_BDGT5000
+
+dir: resource/dataset/budget5000/acm/
+
+folds: [0,1,2,3,4,5,6,7,8,9]
+
+max_length: 128
+
+num_classes: 11
+
+batch_size: 64
+num_workers: 32
